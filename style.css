@@ -1,0 +1,54 @@
+table{
+    text-align: center;
+    font-family:Haettenschweiler;
+    font-size: large;
+    width: 100% ;
+    height: 250px;
+    
+}
+
+.dias{
+    background-color:rgb(32, 161, 165);
+}
+.lado{
+    background-color:rgb(32,161,165);
+    writing-mode: vertical-lr;
+}
+
+
+.amarelo{
+    background-color: rgb(233, 224, 149);
+}
+.verdinho{
+    background-color: rgb(199, 255, 144);
+}
+.verde{
+    background-color: rgb(139, 219, 139);
+}
+.rosa{
+    background-color: rgb(255, 211, 249);
+}
+.laranja{
+    background-color: rgb(252, 175, 140);
+}
+.roxo{
+    background-color: rgb(198, 138, 255);
+}
+.azul{
+    background-color: rgba(90, 152, 223, 0.966);
+}
+.vermelho{
+    background-color: rgb(255, 137, 137);
+}
+.pt{
+    background-color: rgb(174, 217, 255);
+}
+.pv{
+    background-color:rgb(112, 218, 156) ;
+}
+.f{
+    background-color: rgb(80, 199, 199);
+}
+.INTERVALO{
+    background-color: rgb(255, 187, 0);
+}
